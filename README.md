@@ -3,13 +3,21 @@ EMNIST Classification – Machine Vision Project
 Make sure your project folder looks like this
 /uts_machinevision
 │
+
 ├── emnist-letters-train.csv        ← required EMNIST dataset
+
 ├── sorter.py
+
 ├── hog_extraction.py
+
 ├── loocvSVMRBF_evaluate.py
+
 ├── loocvSVMLinear_evaluate.py
+
 ├── loocvSVMLinear_evaluate_2ksample.py
+
 ├── loocvSVMRBF_evaluate_3ksample.py
+
 └── README.md
 
 How to run?
